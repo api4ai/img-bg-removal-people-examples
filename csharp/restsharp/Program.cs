@@ -13,7 +13,7 @@ using RestSharp;
  *
  * Use 'rapidapi' if you want to try api4ai via RapidAPI marketplace.
  * For more details visit:
- *   https://rapidapi.com/api4ai-api4ai-default/api/people-background-removal/details
+ *   https://rapidapi.com/api4ai-api4ai-default/api/people-photo-background-removal/details
  */
 
 const String MODE = "demo";
@@ -41,7 +41,7 @@ switch (MODE) {
         headers.Add("A4A-CLIENT-APP-ID", "sample");
         break;
     case "rapidapi":
-        url = $"https://people-background-removal.p.rapidapi.com/v1/results?mode={RESULT_MODE}";
+        url = $"https://people-photo-background-removal.p.rapidapi.com/v1/results?mode={RESULT_MODE}";
         headers.Add("X-RapidAPI-Key", RAPIDAPI_KEY);
         break;
     default:

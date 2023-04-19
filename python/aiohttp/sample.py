@@ -16,7 +16,7 @@ import aiohttp
 #
 # Use 'rapidapi' if you want to try api4ai via RapidAPI marketplace.
 # For more details visit:
-#   https://rapidapi.com/api4ai-api4ai-default/api/people-background-removal/details
+#   https://rapidapi.com/api4ai-api4ai-default/api/people-photo-background-removal/details
 MODE = 'demo'
 
 
@@ -35,7 +35,7 @@ OPTIONS = {
         'headers': {'A4A-CLIENT-APP-ID': 'sample'}
     },
     'rapidapi': {
-        'url': f'https://people-background-removal.p.rapidapi.com/v1/results?mode={RESULT_MODE}',
+        'url': f'https://people-photo-background-removal.p.rapidapi.com/v1/results?mode={RESULT_MODE}',
         'headers': {'X-RapidAPI-Key': RAPIDAPI_KEY}
     }
 }

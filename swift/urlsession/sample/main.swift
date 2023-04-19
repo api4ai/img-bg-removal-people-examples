@@ -21,7 +21,7 @@ extension NSMutableData {
 //
 // Use "rapidapi" if you want to try api4ai via RapidAPI marketplace.
 // For more details visit:
-//   https://rapidapi.com/api4ai-api4ai-default/api/people-background-removal/details
+//   https://rapidapi.com/api4ai-api4ai-default/api/people-photo-background-removal/details
 let MODE = "demo"
 
 
@@ -44,7 +44,7 @@ let OPTIONS = [
         ] as NSMutableDictionary
     ],
     "rapidapi": [
-        "url": "https://people-background-removal.p.rapidapi.com/v1/results?mode=\(RESULT_MODE)",
+        "url": "https://people-photo-background-removal.p.rapidapi.com/v1/results?mode=\(RESULT_MODE)",
         "headers": [
             "X-RapidAPI-Key": RAPIDAPI_KEY
         ] as NSMutableDictionary

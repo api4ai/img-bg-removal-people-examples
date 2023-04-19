@@ -7,7 +7,7 @@
 #
 # Use 'rapidapi' if you want to try api4ai via RapidAPI marketplace.
 # For more details visit:
-#   https://rapidapi.com/api4ai-api4ai-default/api/people-background-removal/details
+#   https://rapidapi.com/api4ai-api4ai-default/api/people-photo-background-removal/details
 MODE="demo"
 
 
@@ -27,7 +27,7 @@ if [[ "${MODE}" == "demo" ]]; then
     URL="https://demo.api4ai.cloud/img-bg-removal/v1/people/results?mode=${RESULT_MODE}"
     HEADERS="A4A-CLIENT-APP-ID: sample"  # optional header
 elif [[ "${MODE}" == "rapidapi" ]]; then
-    URL="https://people-background-removal.p.rapidapi.com/v1/results?mode=${RESULT_MODE}"
+    URL="https://people-photo-background-removal.p.rapidapi.com/v1/results?mode=${RESULT_MODE}"
     HEADERS="X-RapidAPI-Key: ${RAPIDAPI_KEY}"
 else
     echo "Unsupported sample mode"

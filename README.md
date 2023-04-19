@@ -1,4 +1,4 @@
-# API4AI Samples: People Background Removal
+# API4AI Samples: People Photo Background Removal
 
 <div align="center">
 <a target="_blank" href="https://api4.ai?utm_source=img_bg_removal_people_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://storage.googleapis.com/api4ai-static/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<a target="_blank" href="https://rapidapi.com/api4ai-api4ai-default/api/people-background-removal/details"><img src="https://img.shields.io/badge/View%20on%20RapidAPI-gray?logo=octopusdeploy&style=for-the-badge"/></a>
+<a target="_blank" href="https://rapidapi.com/api4ai-api4ai-default/api/people-photo-background-removal/details"><img src="https://img.shields.io/badge/View%20on%20RapidAPI-gray?logo=octopusdeploy&style=for-the-badge"/></a>
 <a target="_blank" href="https://api4.ai/apis/people-bg-removal?utm_source=img_bg_removal_people_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://img.shields.io/badge/api4.ai%20platform-fee33c?style=for-the-badge&logo=icloud&logoColor=black"/></a>
 <a target="_blank" href="https://t.me/a4a_people_img_bg_removal_bot"><img src="https://img.shields.io/badge/-Telegram%20demo-ddd?logo=telegram&style=for-the-badge"/></a>
 <br><br>
@@ -21,7 +21,7 @@
 
 API4AI is cloud-native computer vision & AI platform for startups, enterprises and individual developers. This repository contains sample mini apps that utilize **People Background Removal API** provided by API4AI.
 
-The People Background Removal API is as simple as it goes. It detects people, segments it out and removes every other pixel.
+The People Photo Background Removal API is as simple as it goes. It detects people, segments it out and removes every other pixel.
 
 You can use it in your image processing apps, quickly make collages with it, apply it to photos before uploading to social platforms and more.
 
@@ -57,7 +57,7 @@ This project run to help API users with ready-to-use examples in a set of the mo
 
 * Learn more about API on [api4.ai](https://api4.ai/docs/people-bg-removal?utm_source=img_bg_removal_people_example_repo&utm_medium=readme&utm_campaign=examples)
 * Try API via [🤖 telegram demo bot](https://t.me/a4a_people_img_bg_removal_bot)
-* View API on [RapidAPI marketplace](https://rapidapi.com/api4ai-api4ai-default/api/people-background-removal/details)
+* View API on [RapidAPI marketplace](https://rapidapi.com/api4ai-api4ai-default/api/people-photo-background-removal/details)
 
 
 ## 📩 Contacts
