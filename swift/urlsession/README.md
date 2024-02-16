@@ -1,7 +1,7 @@
 # API4AI photo people background removal
 
 This directory contains a minimalistic sample that sends requests to the API4AI People Photo Background Removal API.
-The sample is implemented in `bash` using `curl` command-line tool.
+The sample is implemented in `Swift` using [URLSession](https://developer.apple.com/documentation/foundation/urlsession) class.
 
 
 ## Overview
