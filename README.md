@@ -1,7 +1,7 @@
 # API4AI Samples: People Photo Background Removal
 
 <div align="center">
-<a target="_blank" href="https://api4.ai?utm_source=img_bg_removal_people_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://storage.googleapis.com/api4ai-static/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
+<a target="_blank" href="https://api4.ai?utm_source=img_bg_removal_people_example_repo&utm_medium=readme&utm_campaign=examples"><img src="https://static.api4.ai/logo/a4a-logo-horizontal-gradient-rectangular-bg-round-glow-small-550.png"/></a>
 </div>
 
 
@@ -26,7 +26,7 @@ The People Photo Background Removal API is as simple as it goes. It detects peop
 You can use it in your image processing apps, quickly make collages with it, apply it to photos before uploading to social platforms and more.
 
 <div align="center">
-<img width="600" src="https://storage.googleapis.com/api4ai-static/visuals/bg_removal_people.png"/>
+<img width="600" src="https://static.api4.ai/visuals/bg_removal_people.png"/>
 </div>
 
 
